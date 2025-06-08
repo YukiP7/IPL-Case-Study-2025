@@ -21,11 +21,7 @@ The dashboard is designed to be both analytical and ethical—highlighting not j
 - Bar and matrix visuals showing **total advertising spend** across categories, franchises, and regions.
 - Insight: Some franchises receive **60%+ of sponsorship value from high-risk brands**.
 
-### 4. Regional Impact Analysis
-- Visuals showing IPL-driven economic activity across regions (North, South, West, East).
-- KPIs include **Ad Spend**, **Jobs Created**, **Estimated Viewership Exposure**.
-
-### 5. Ethical Lens: Celebrity + Risk Index
+### 4. Ethical Lens: Celebrity + Risk Index
 - Table listing celebrities, associated brands, and corresponding health risk index.
 - Smart narrative used to flag ethical concerns.
 
